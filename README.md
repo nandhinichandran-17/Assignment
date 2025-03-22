@@ -10,6 +10,7 @@ Features
 ✅ Scalable & Flexible – Works with various investor reports and company filings
 
 Usage Guide
+
 Place the financial PDF in the project folder
 Run the script, and it will generate a summarized investor report
 Output will be saved in txt file
