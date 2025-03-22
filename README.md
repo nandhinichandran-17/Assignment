@@ -8,3 +8,10 @@ Features
 ✅ Text Summarization – Uses Ollama LLM for high-quality summaries
 ✅ Key Insight Extraction – Identifies critical financial trends and risks
 ✅ Scalable & Flexible – Works with various investor reports and company filings
+
+Usage Guide
+Place the financial PDF in the project folder
+Run the script, and it will generate a summarized investor report
+Output will be saved in txt file
+
+
